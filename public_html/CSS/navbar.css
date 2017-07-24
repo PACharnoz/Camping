@@ -11,7 +11,7 @@ and open the template in the editor.
 
 
 html, body {
-    background-color : rgb(84, 249, 141);
+    background-color : rgb(206, 206, 206);
     margin: 0 auto 0 auto;
     height: 0%;
 }
@@ -129,12 +129,12 @@ header li a
 
 
 header li a.active {
-    background-color: #2d2d2d;
+    background-color:#01d758;
     color: white;
 }
 
 header li a:hover:not(.active) {
-    background-color: #555;
+    background-color: #16b84e;
     color: white;
 }
 
